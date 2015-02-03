@@ -1,0 +1,28 @@
+
+
+.logo>img{
+	background-color: #1b8abe;
+	height: 6rem;
+}
+
+.menu{
+	background-color: #2b2b2b;
+	position: fixed;
+	width: 100%;
+	height: 6rem;
+}
+
+.menu>a{
+	color: #fff;
+	text-decoration: none; 
+}
+
+.banner{
+	background: url(../img/banner-head.jpg);
+}
+
+.banner>*{
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+}
